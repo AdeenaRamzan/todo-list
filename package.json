@@ -1,6 +1,6 @@
 {
-  "name": "ar-todo-list",
-  "version": "2.0.0",
+  "name": "adeenar-todo-list",
+  "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
