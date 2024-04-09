@@ -28,7 +28,7 @@ while (true) {
         name: "addTodo",
         type: "input",
         message: "Enter your todo: ",
-        choices: ["Add Task", "Remove Task", "View List", "Exit"],
+        // choices: ["Add Task", "Remove Task", "View List", "Exit"],
       },
 
       {
